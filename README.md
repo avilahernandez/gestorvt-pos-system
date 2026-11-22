@@ -19,7 +19,6 @@ Este proyecto fue desarrollado aplicando buenas prácticas de ingeniería de sof
 
 *   **Frontend (UI/UX):** Android (Java Nativo) + Vistas Híbridas (WebView con HTML5, CSS3 y JavaScript moderno).
 *   **Base de Datos Local:** SQLite implementando el **Patrón DAO (Data Access Object)** para una separación limpia de la lógica de negocio y el acceso a datos.
-*   **Backend (Sincronización):** PHP, MariaDB, Nginx.
 *   **Seguridad:** Criptografía SHA-256 y sistema de bloqueo por hardware.
 
 ## 📸 Capturas de Pantalla (Módulos Principales)
